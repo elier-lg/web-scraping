@@ -1,0 +1,1 @@
+URLS_PATH = './res/urls.csv'
