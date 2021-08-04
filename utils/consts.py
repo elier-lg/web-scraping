@@ -1,1 +1,6 @@
 URLS_PATH = './res/urls.csv'
+RES_PATH = './res/'
+OUTPUT_PATH = './output/'
+URL_PREFIX = 'https://www.'
+START_SCRAP_MESSAGE = 'Scraping on {url}'
+SCRAP_LEN_MESSAGE = '{len} results from {url}'

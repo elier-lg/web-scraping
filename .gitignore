@@ -1,0 +1,4 @@
+utils/__pycache__/*
+output/
+.DS_Store
+utils/__pycache__/consts.cpython-39.pyc
